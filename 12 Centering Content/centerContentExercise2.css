@@ -1,0 +1,33 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+footer{
+    background-color: #000000;
+    color: #FFFFFF;
+    padding: 2px;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: right;
+}
+
+p{
+    text-align: justify;
+}
+
+#wrapper{
+    width: 900px;
+    border: 1px solid #000000;
+    padding: 1.5em;
+    margin: auto;
+}

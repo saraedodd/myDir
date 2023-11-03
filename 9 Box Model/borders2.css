@@ -1,0 +1,41 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    border-right-color: #336699;
+    border-right-style: solid;
+    border-right-width: 10px;
+}
+
+section{
+    border-left-color: #33ff33;
+    border-left-style: dotted;
+    border-left-width: 0.3em;
+}
+
+h1{
+    border: none
+}
+
+h2{
+    box-shadow: 2px 2px 5px #000000;
+}
+
+h3{
+    box-shadow: 2px 2px 15px red, -2px -2px 15px red;
+}
+
+p{
+    border-bottom-color: #0033ff;
+    border-bottom-style: double;
+    border-bottom-width: 15px;
+}
+
+footer{
+    border-top: blue groove 20px;
+    border-left: #330099 ridge 15px;
+    border-right: orange inset 0.5em;
+    border-bottom: #ff6699 outset 25px;
+
+}

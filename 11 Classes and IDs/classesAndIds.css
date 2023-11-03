@@ -1,0 +1,38 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    border-bottom: 5px solid #61b9ff;
+}
+
+footer{
+    border-top: 5px solid #61b9ff;
+    background-color: #FFFF56;
+}
+
+h1{
+    color: #61b9ff;
+    font-size: 2em;
+    /* margin-bottom: 0; */
+}
+
+/* p{
+    font-style: italic;
+    color: #154391;
+} */
+
+#topHeading{
+    color: #77A423;
+    margin-bottom: 0;
+}
+
+#intro{
+    font-style: italic;
+    color: #154391;
+}
+
+#second{
+    color: orange;
+    font-size: 1.5em;
+}

@@ -1,0 +1,98 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,h2,h3,p
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h1
+{
+    color: #A3A3A5;
+}
+
+h2
+{
+    color: #7CA1D0;
+}
+
+header
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    padding: 1em;
+}
+
+header ul
+{
+    display: flex;
+    list-style-type: none;
+    color: #E26B57;
+}
+
+/* nav li
+{
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+} */
+
+nav a
+{
+    color: #000859;
+    text-decoration: none;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+
+footer
+{
+    color: #A3A3A5;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#logo
+{
+    font-weight: normal;
+    margin-bottom: 0;
+}
+
+#logo span
+{
+    color: #E26B57;
+}
+
+#outerContainer
+{
+    background-color: #3C7FC3;
+    padding: 2em;
+    border-radius: 10px;
+}
+
+#mainContent
+{
+    background-color: white;
+    padding: 2em;
+    border-radius: 10px;
+}
+
+#venueDetails
+{
+    display: flex;
+}
+
+.wrapper
+{
+    width: 960px;
+    margin: auto;
+}

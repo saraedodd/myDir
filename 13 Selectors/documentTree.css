@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2, li{
+    color: green;
+}
+
+h1.special{
+    color: #FF6600;
+}
+
+/* li em{
+    color: #FFFFFF;
+    background-color: #666666;
+    font-size: 110%;
+    padding-left: 5px;
+    padding-right: 5px;
+} */
+
+ul em{
+    color: #FFFFFF;
+    background-color: #666666;
+    font-size: 110%;
+    padding-left: 5px;
+    padding-right: 5px;
+}

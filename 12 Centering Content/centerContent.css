@@ -1,0 +1,26 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+footer{
+    background-color: #000000;
+    color: #FFFFFF;
+    padding: 2px;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: right;
+}
+
+p{
+    text-align: justify;
+}

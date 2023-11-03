@@ -1,0 +1,28 @@
+body{
+    background-color: #DCDDDE;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-color: #ffffff;
+    border-bottom-color: #5C2E91;
+    border-bottom-style: solid;
+    border-bottom-width: 10px;
+}
+
+footer{
+    background-color: #5C2E91;
+    color: #ffffff;
+}
+
+h1{
+    color: #5C2E91;
+}
+
+h2{
+    color: #7361AB;
+}
+
+a{
+color: #ffffff;
+}

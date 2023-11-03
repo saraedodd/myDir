@@ -1,0 +1,8 @@
+*{
+    outline: 1px solid red;
+    display: inline;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
