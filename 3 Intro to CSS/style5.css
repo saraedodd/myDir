@@ -1,0 +1,22 @@
+body
+{
+background-color: black;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+/*Heading styling*/
+h1
+{
+background-color: yellow;
+}
+h2
+{
+    background-color: lime;
+}
+h3
+{
+background-color: purple;
+}
+p
+{
+background-color: pink;
+}

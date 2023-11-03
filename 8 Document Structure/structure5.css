@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+footer{
+    font-size: 80%;
+    background-color: #EC008C;
+}
+
+section{
+    background-color: #8894A2;
+}
+
+nav{
+    background-color: #EEF1FF;
+}
+
+article{
+    background-color: #4D2DCB;
+}

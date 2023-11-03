@@ -1,0 +1,26 @@
+body
+{
+font-family: Arial, Helvetica, sans-serif;
+color: navy;
+font-size: 12px;
+}
+
+h1
+{
+color: purple;
+font-size: 150%;
+}
+
+h2
+{
+color: green;
+font: 120%;
+}
+
+strong{
+    color: crimson;
+}
+
+em{
+    color: deepskyblue;
+}
